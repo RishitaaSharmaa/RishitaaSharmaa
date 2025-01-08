@@ -13,10 +13,12 @@ I’m passionate about exploring the fascinating world of **Machine Learning** a
 ---
 
 ## 🛠️ Technical Skills:  
-- **Languages**: Java, JavaScript, SQL  
+- **Languages**: Java, JavaScript, SQL, Python 
 - **Frontend**: HTML, CSS  
-- **Libraries/Tools**: OpenCV  
-- **Database**: SQL  
+- **Libraries/Tools**: OpenCV ,Scikit-learn, Tensorflow
+- **Database**: SQL
+- **Familarity**: C, C++
+
 
 ---
 
