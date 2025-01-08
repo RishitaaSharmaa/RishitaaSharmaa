@@ -32,7 +32,7 @@ I’m passionate about exploring the fascinating world of **Machine Learning** a
 ### 📫 Get in Touch:  
 Feel free to connect with me to collaborate, share ideas, or just have a tech chat!  
 - **Email**: [rishitasharma2005@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/rishita-sharma-b126b327b/]  
+- **LinkedIn**: [www.linkedin.com/in/rishitasharma2]  
 
 ---
 
