@@ -13,9 +13,9 @@ I’m passionate about exploring the fascinating world of **Machine Learning** a
 ---
 
 ## 🛠️ Technical Skills:  
-- **Languages**: Java, JavaScript, SQL, Python 
+- **Languages**: Java, JavaScript, Python 
 - **Frontend**: HTML, CSS  
-- **Libraries/Tools**: OpenCV ,Scikit-learn, Tensorflow
+- **Libraries/Tools**: OpenCV ,Scikit-learn, Tensorflow,Pytorch  
 - **Database**: SQL
 - **Familarity**: C, C++
 
