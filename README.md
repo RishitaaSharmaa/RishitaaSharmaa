@@ -1,23 +1,38 @@
 # 👩‍💻 Rishita Sharma  
 
-Hello! I'm **Rishita Sharma**, a 2nd-year **B.Tech** student in **Artificial Intelligence and Data Science** at **Vivekananda Institute of Professional Studies**.  
+Hello! I'm **Rishita Sharma**, a 3nd-year **B.Tech** student in **Artificial Intelligence and Data Science** at **Vivekananda Institute of Professional Studies**.  
 
 I’m passionate about exploring the fascinating world of **Machine Learning** and **Artificial Intelligence**. Constantly learning and challenging myself, I thrive in environments that encourage creativity and innovation.  
 
 ---
 
 ## 🌟 Highlights:  
-- 🎯 **Hackathon Enthusiast**: Participated in several hackathons and proud winner of **three hackathons**!  
+- 🎯 **Hackathon Enthusiast**: Participated in several hackathons and proud winner of **six hackathons**!  
 - 💡 **Eager Learner**: Always curious about new technologies and driven by a passion for continuous growth.  
 
 ---
 
-## 🛠️ Technical Skills:  
-- **Languages**: Java, JavaScript, Python 
-- **Frontend**: HTML, CSS  
-- **Libraries/Tools**: OpenCV ,Scikit-learn, Tensorflow,Pytorch  
-- **Database**: SQL
-- **Familarity**: C, C++
+## 🛠️ Tech Stack
+
+### 💻 Programming & ML
+- Python  
+- Scikit-learn, OpenCV, Mediapipe  
+- TensorFlow, Keras, PyTorch  
+- LangChain  
+
+### 📚 ML Concepts
+- Supervised & Unsupervised Learning  
+- Neural Networks  
+- Transformers  
+
+### 🚀 Deployment & Tools
+- Docker, Kubernetes  
+- Flask, Streamlit  
+
+### 🗄️ Databases
+- MySQL, PostgreSQL  
+- ChromaDB, FAISS  
+
 
 
 ---
