@@ -1,6 +1,6 @@
 # 👩‍💻 Rishita Sharma  
 
-Hello! I'm **Rishita Sharma**, a 3nd-year **B.Tech** student in **Artificial Intelligence and Data Science** at **Vivekananda Institute of Professional Studies**.  
+Hello! I'm **Rishita Sharma**, a 3rd-year **B.Tech** student in **Artificial Intelligence and Data Science** at **Vivekananda Institute of Professional Studies**.  
 
 I’m passionate about exploring the fascinating world of **Machine Learning** and **Artificial Intelligence**. Constantly learning and challenging myself, I thrive in environments that encourage creativity and innovation.  
 
